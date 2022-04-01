@@ -7,8 +7,6 @@
 - I’m currently Studing in **CityU with Computer Science master**
 - I’m  learning **Game theory, data mining, software testing, computer vision and image, virtual reality** in this semester
 - I'll Study in **CUHK to study E-commerce master next year**
-- Fun fact **I'm still struggling to prepare for the final exam. **
-- **The good news is that I'll have a holiday after the exam and work hard to achieve work life balance in the future.**
-
+- I'm still struggling to prepare for the final exam, the good news is that I'll have a holiday after the exam and work hard to achieve work life balance in the future.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuanhang110&show_icons=true&locale=en" alt="yuanhang110" /></p>
 
