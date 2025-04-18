@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm suyoumo</h1>
 <h3 align="center">I am an engineer in the field of large language modeling</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyoumo&label=Profile%20views&color=0e75b6&style=flat" alt="yuanhang110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyoumo&label=Profile%20views&color=0e75b6&style=flat" alt="suyoumo" /> </p>
 
 - My undergraduate major is **software engineering**
 - I am interested in large models and currently working in this field. When I have free time, I will update my project
